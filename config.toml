@@ -1,0 +1,36 @@
+baseurl = "https://spholmes.github.io/"
+relativeurls = true
+languageCode = "en-us"
+title = "Public Repository"
+theme = "hugo-tranquilpeak-theme"
+googleAnalytics = "UA-92533297-1"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "My Home Page"
+    url = "http://statweb.stanford.edu/~susan/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/spholmes"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/SherlockpHolmes"
+
+[params]
+    description = "Resources, talks, videos."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.9.0"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
