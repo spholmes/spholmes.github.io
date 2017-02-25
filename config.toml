@@ -1,17 +1,39 @@
 baseurl = "https://spholmes.github.io/"
 relativeurls = true
 languageCode = "en-us"
-title = "Public Repository"
+title = "Susan p Holmes Science Repository"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-92533297-1"
+paginate = 7
 disqusShortname = ""
+canonifyurls = true
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[author]
+  name = "Susan Holmes"
+  bio = "Professor of Statistics, Data Scientist, Mother, Grandmother **COOL**"
+  job = "Professor Statistics"
+  location = "Stanford, CA, USA"
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  gravatarEmail = "susan@stat.stanford.edu"
+  # Your profile picture
+  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+  picture = "https://res.cloudinary.com/sherlockph/image/upload/v1488056557/susan_lizad_qp3oet.png"
+  # Your Twitter username without the @. E.g : thibaudlepretre
+ twitter = "SherlockpHolmes"
+  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
+  # googlePlus = "+ThibaudLepretre"
+  
 [[menu.main]]
-    name = "My Home Page"
+    name = "Homepage"
     url = "http://statweb.stanford.edu/~susan/"
 [[menu.main]]
     name = "GitHub"
@@ -20,6 +42,14 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/SherlockpHolmes"
 
+[menu.links]]
+  weight = 0
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/spholmes"
+
+
 [params]
     description = "Resources, talks, videos."
 
@@ -27,6 +57,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     highlightjsVersion = "9.9.0"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
+    clearReading = true
+    hierarchicalCategories = true
+    sidebarBehavior = 1
+    coverImage = "http://res.cloudinary.com/sherlockph/image/upload/v1488056599/brighton-commute-starlings_hbhyu2.jpg"
 
     [params.logo]
     url = "logo.png"
