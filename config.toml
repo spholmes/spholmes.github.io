@@ -42,7 +42,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/SherlockpHolmes"
 
-[menu.links]]
+[[menu.links]]
   weight = 0
   identifier = "github"
   name = "GitHub"
@@ -52,7 +52,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [params]
     description = "Resources, talks, videos."
-
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.9.0"
     highlightjsLang = ["r", "yaml"]
