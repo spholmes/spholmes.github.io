@@ -19,8 +19,8 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [author]
   name = "Susan Holmes"
-  bio = "Professor of Statistics, Data Scientist, Mother, Grandmother **COOL**"
-  job = "Professor Statistics"
+  bio = "Data Scientist, Mother, Grandmother"
+  job = "Professor of Statistics"
   location = "Stanford, CA, USA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "susan@stat.stanford.edu"
@@ -33,8 +33,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   # googlePlus = "+ThibaudLepretre"
   
 [[menu.main]]
+    weight = 0
+    identifier ="home"
     name = "Homepage"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
     url = "http://statweb.stanford.edu/~susan/"
+
 
  
 [[menu.links]]
@@ -43,9 +47,20 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/spholmes"
+  
 [[menu.links]]
+   weight = 1
+   identifier ="twitter"
    name = "Twitter"
+   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
     url = "https://twitter.com/SherlockpHolmes"
+
+[[menu.links]]
+  weight = 3
+  identifier = "about"
+  name = "Lab"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-users\"></i>"
+  url = "http://statweb.stanford.edu/~susan/lab_index.html"
 
 
 [params]
@@ -55,11 +70,16 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
     clearReading = true
+    dateFormat = "14 February 2017"
     hierarchicalCategories = true
     sidebarBehavior = 1
+    keywords = ["Reproducible Research", "Data Science", "phylogenetics", "R"]
     coverImage = "http://res.cloudinary.com/sherlockph/image/upload/v1488056599/brighton-commute-starlings_hbhyu2.jpg"
-
-    [params.logo]
+    autoThumbnailImage = true
+    thumbnailImage = true
+    thumbnailImagePosition = "right"
+    
+[params.logo]
     url = "logo.png"
     width = 50
     height = 50
