@@ -4,10 +4,9 @@ date: "January 1 2017"
 summary: "Some old talks and material"
 ---
 
-## Some old talks about trees, immunology and cancer
 
 Since I have been going through my archives to write reviews
-and `historical perspectives', I made some of my **really** old
+and `historical perspectives', I have also made some of my **really** old
 talks availble.
 
 <!--more-->
@@ -17,11 +16,9 @@ Doom, NZ, 2003: Confidence statements for phylogenetics
 
 KITP, Santa Barbara, MDS and distances for trees, 2001[<i class="fa fa-file-pdf-o" style="font-size:24px;color:orange"></i>](https://www.dropbox.com/s/tvhym66x4ryzxzf/Holmes_KITP_May2001.pdf?dl=0)
 
+
+
 ## Some talks that have videos associated to them
-
-
-
-
 
 NIPS, December 2016 : Reproducible Research, the case of the human microbiome.
 [<i class="fa fa-file-movie-o" style="font-size:24px;color:red"></i>](
