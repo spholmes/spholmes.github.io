@@ -1,11 +1,11 @@
 baseurl = "https://spholmes.github.io/"
 relativeurls = true
 languageCode = "en-us"
-title = "Susan p Holmes Science Repository"
+title = "Susan Holmes: Data Science Repository"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-92533297-1"
 paginate = 7
-disqusShortname = ""
+#disqusShortname = ""
 canonifyurls = true
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
