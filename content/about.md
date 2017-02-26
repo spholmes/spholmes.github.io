@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2017-02-25T11:48:51-09:00"
+date: "2017-02-25"
 ---
 
 This is an "archival"  website for talks and teaching materials. 
