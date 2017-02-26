@@ -1,7 +1,7 @@
 baseurl = "https://spholmes.github.io/"
 relativeurls = true
 languageCode = "en-us"
-title = "Susan Holmes: Data Science Repository"
+title = "Susan Holmes: Archive"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-92533297-1"
 paginate = 7
@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [author]
   name = "Susan Holmes"
-  bio = "Data Scientist, Mother, Grandmother"
+  bio = "Statistician, Data Scientist, Mother, Grandmother, Advisor"
   job = "Professor of Statistics"
   location = "Stanford, CA, USA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
