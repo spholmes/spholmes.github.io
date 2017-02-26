@@ -1,6 +1,11 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2017-02-25T11:48:51-09:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+This is an "archival"  website for talks and teaching materials. 
+The original version was generated using [blogdown](https://github.com/rstudio/blogdown), thank you
+again [Yihui Xie](https://github.com/yihui/).
+
+The theme was forked from [@kakawait/hugo-tranquilpeak-theme](https://github.com/jrutheiser/hugo-tranquilpeak-theme) and modified by [Susan Holmes](https://github.com/spholmes).
+
