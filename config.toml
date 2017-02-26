@@ -39,8 +39,6 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
     url = "http://statweb.stanford.edu/~susan/"
 
-
- 
 [[menu.links]]
   weight = 0
   identifier = "github"
