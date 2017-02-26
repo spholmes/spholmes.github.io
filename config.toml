@@ -35,19 +35,17 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Homepage"
     url = "http://statweb.stanford.edu/~susan/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/spholmes"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/SherlockpHolmes"
 
+ 
 [[menu.links]]
   weight = 0
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/spholmes"
+[[menu.links]]
+   name = "Twitter"
+    url = "https://twitter.com/SherlockpHolmes"
 
 
 [params]
