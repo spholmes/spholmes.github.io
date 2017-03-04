@@ -1,6 +1,8 @@
 ---
 title: Old Talks and Videos
-date: "January 1 2017"
+type: "post"
+image: "http://res.cloudinary.com/sherlockph/image/upload/v1488645852/Material_in_the_New_Orleans_city_archives_ilwar3.jpg"
+date: "1 January 2017"
 summary: "Some old talks and material"
 ---
 

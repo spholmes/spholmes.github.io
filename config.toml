@@ -5,12 +5,11 @@ title = "Susan Holmes: Archive"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-92533297-1"
 paginate = 7
-#disqusShortname = ""
 canonifyurls = true
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$", ".old$"]
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:title/"
 
 [taxonomies]
   tag = "tags"
@@ -53,11 +52,20 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://twitter.com/SherlockpHolmes"
 
 [[menu.links]]
-  weight = 3
+   weight = 3
+   identifier ="papers"
+   name = "Papers"
+   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+    url = "http://statweb.stanford.edu/~susan/papers.html"
+
+[[menu.links]]
+  weight = 4
   identifier = "about"
   name = "Lab"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-users\"></i>"
   url = "http://statweb.stanford.edu/~susan/lab_index.html"
+
+
 
 
 [params]
