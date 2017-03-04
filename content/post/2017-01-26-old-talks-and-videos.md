@@ -1,11 +1,12 @@
 ---
 title: Old Talks and Videos
 type: "post"
-image: "http://res.cloudinary.com/sherlockph/image/upload/v1488645852/Material_in_the_New_Orleans_city_archives_ilwar3.jpg"
+image: "//res.cloudinary.com/sherlockph/image/upload/v1488645852/Material_in_the_New_Orleans_city_archives_ilwar3.jpg"
 date: "1 January 2017"
 summary: "Some old talks and material"
 ---
 
+![Old](/img/Material_in_the_New_Orleans_city_archives.jpg)
 
 Since I have been going through my archives to write reviews
 and `historical perspectives', I have also made some of my **really** old
