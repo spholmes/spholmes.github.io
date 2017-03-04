@@ -1,62 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Susan Holmes: Archive</title>
-    <link>https://spholmes.github.io/index.xml</link>
-    <description>Recent content on Susan Holmes: Archive</description>
+    <title>Reproducible Research on Susan Holmes: Archive</title>
+    <link>https://spholmes.github.io/tags/reproducible-research/index.xml</link>
+    <description>Recent content in Reproducible Research on Susan Holmes: Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://spholmes.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About</title>
-      <link>https://spholmes.github.io/about/</link>
-      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://spholmes.github.io/about/</guid>
-      <description>&lt;p&gt;This is an &amp;ldquo;archival&amp;rdquo;  website for talks and teaching materials.
-The original version was generated using &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt;, thank you
-again &lt;a href=&#34;https://github.com/yihui/&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-tranquilpeak-theme&#34;&gt;@kakawait/hugo-tranquilpeak-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/spholmes&#34;&gt;Susan Holmes&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Old Talks and Videos</title>
-      <link>https://spholmes.github.io/1/01/old-talks-and-videos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spholmes.github.io/1/01/old-talks-and-videos/</guid>
-      <description>&lt;p&gt;Since I have been going through my archives to write reviews
-and `historical perspectives&amp;rsquo;, I have also made some of my &lt;strong&gt;really&lt;/strong&gt; old
-talks availble.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2003&#34;&gt;2003&lt;/h2&gt;
-
-&lt;p&gt;Doom, NZ: Confidence statements for phylogenetics
-&lt;a href=&#34;https://www.dropbox.com/s/cls9c9e7zic8rwc/whitianga.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2001&#34;&gt;2001&lt;/h2&gt;
-
-&lt;p&gt;KITP, Santa Barbara, MDS and distances for trees, 2001&lt;a href=&#34;https://www.dropbox.com/s/tvhym66x4ryzxzf/Holmes_KITP_May2001.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;http://online.kitp.ucsb.edu/online/infobio01/holmes/&#34;&gt;KITP archive &lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;some-talks-that-have-videos-associated-to-them&#34;&gt;Some talks that have videos associated to them&lt;/h2&gt;
-
-&lt;h2 id=&#34;2014&#34;&gt;2014&lt;/h2&gt;
-
-&lt;p&gt;Newton Institute, 2014: Waste not want not: using the data, all the data.
-&lt;a href=&#34;https://www.newton.ac.uk/seminar/20140328114512301&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2012&#34;&gt;2012&lt;/h2&gt;
-
-&lt;p&gt;MBI, 2012 : Bacterial trees and the Human Microbiome
-&lt;a href=&#34;https://mbi.osu.edu/video/player/?id=1120&amp;amp;title=Bacterial+trees+in+the+Human+Microbiome&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://spholmes.github.io/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Recent talks</title>

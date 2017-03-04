@@ -7,7 +7,27 @@
   </url>
   
   <url>
-    <loc>https://spholmes.github.io/1/01/01/old-talks-and-videos/</loc>
+    <loc>https://spholmes.github.io/categories/archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/tags/microbiome/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/1/01/old-talks-and-videos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/tags/phylogenetic-trees/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -16,12 +36,22 @@
   </url>
   
   <url>
-    <loc>https://spholmes.github.io/1/01/01/recent-talks/</loc>
+    <loc>https://spholmes.github.io/1/01/recent-talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/tags/reproducible-research/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spholmes.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
