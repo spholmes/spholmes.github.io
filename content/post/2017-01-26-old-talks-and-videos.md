@@ -1,12 +1,13 @@
 ---
 title: Old Talks and Videos
 type: "post"
-image: "//res.cloudinary.com/sherlockph/image/upload/v1488645852/Material_in_the_New_Orleans_city_archives_ilwar3.jpg"
 date: "2017-02-25"
 summary: "Some old talks and material"
+thumbnailImagePosition: left
+thumbnailImage: "//res.cloudinary.com/sherlockph/image/upload/v1488645852/Material_in_the_New_Orleans_city_archives_ilwar3.jpg"
 ---
 
-<img src="http://res.cloudinary.com/sherlockph/image/upload/Material_in_the_New_Orleans_city_archives_ilwar3.jpg" width="100" height="100"> Since I have been going through my archives to write reviews
+Since I have been going through my archives to write reviews
 and `historical perspectives', I have also made some of my **really** old
 talks availble.
 
