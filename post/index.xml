@@ -156,6 +156,7 @@ talks available.&lt;/p&gt;
 
 
 
+&lt;meta name=&#34;date&#34; content=&#34;2017-03-30&#34; /&gt;
 
 &lt;title&gt;Interviews and press writeups&lt;/title&gt;
 
@@ -262,7 +263,7 @@ $(document).ready(function () {
 
 
 &lt;h1 class=&#34;title toc-ignore&#34;&gt;Interviews and press writeups&lt;/h1&gt;
-&lt;h4 class=&#34;date&#34;&gt;&lt;em&gt;2017-03-130&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 class=&#34;date&#34;&gt;&lt;em&gt;2017-03-30&lt;/em&gt;&lt;/h4&gt;
 
 &lt;/div&gt;
 
@@ -286,7 +287,9 @@ $(document).ready(function () {
 &lt;/div&gt;
 &lt;div id=&#34;section-2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;2012&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8hx-ZyFOPO0&#34;&gt;Why writing matters ?&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8hx-ZyFOPO0&#34;&gt;Why writing matters ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 
 
