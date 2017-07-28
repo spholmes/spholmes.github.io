@@ -9,6 +9,23 @@
     <atom:link href="https://spholmes.github.io/tags/microbiome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Survey of Microbiome Data Workflow</title>
+      <link>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</guid>
+      <description>&lt;p&gt;July, 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/Short-Phyloseq-Resources.html&#34;&gt;Bioconductor pointer slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/MicrobiomeWorkflowII.html&#34;&gt;Microbiome workflow&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Interviews and press writeups</title>
       <link>https://spholmes.github.io/2017/03/interviews-and-press-writeups/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spholmes.github.io/2017/03/interviews-and-press-writeups/</loc>
     <lastmod>2017-03-30T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>https://spholmes.github.io/categories/archive/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,13 +39,13 @@
   
   <url>
     <loc>https://spholmes.github.io/tags/data-science/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/microbiome/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,19 +57,19 @@
   
   <url>
     <loc>https://spholmes.github.io/post/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/reproducible-research/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/</loc>
-    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
