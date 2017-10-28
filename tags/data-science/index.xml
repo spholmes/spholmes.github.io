@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Susan Holmes: Archive</title>
-    <link>https://spholmes.github.io/tags/data-science/index.xml</link>
+    <link>https://spholmes.github.io/tags/data-science/</link>
     <description>Recent content in Data Science on Susan Holmes: Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://spholmes.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://spholmes.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Survey of Microbiome Data Workflow</title>
@@ -16,13 +19,7 @@
       <guid>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</guid>
       <description>&lt;p&gt;July, 2017&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/Short-Phyloseq-Resources.html&#34;&gt;Bioconductor pointer slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/MicrobiomeWorkflowII.html&#34;&gt;Microbiome workflow&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,29 +32,7 @@
 
 &lt;p&gt;Some News reports.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;March 30, &lt;a href=&#34;https://engineering.stanford.edu/news/susan-holmes-challenges-behind-replicating-biomedical-research&#34;&gt;Stanford Engineering&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Febryary 9, &lt;a href=&#34;http://news.stanford.edu/2017/02/09/stanfords-women-data-science-conference-reaches-worldwide-audience/&#34;&gt;Stanford Report on WiDS&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2016&#34;&gt;2016&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;November 7, &lt;a href=&#34;http://news.stanford.edu/2016/11/07/susan-holmes-statistics-era-big-data/&#34;&gt;Questions and Answers by Taylor Kubota&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;May &lt;a href=&#34;https://www.youtube.com/watch?v=qrQBbyyGJLg&#34;&gt;Big Data in Medicine&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2012&#34;&gt;2012&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8hx-ZyFOPO0&#34;&gt;Why writing matters ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reproducible Research on Susan Holmes: Archive</title>
-    <link>https://spholmes.github.io/tags/reproducible-research/index.xml</link>
+    <link>https://spholmes.github.io/tags/reproducible-research/</link>
     <description>Recent content in Reproducible Research on Susan Holmes: Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://spholmes.github.io/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://spholmes.github.io/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Survey of Microbiome Data Workflow</title>
@@ -16,13 +19,7 @@
       <guid>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</guid>
       <description>&lt;p&gt;July, 2017&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/Short-Phyloseq-Resources.html&#34;&gt;Bioconductor pointer slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/class/bios221/MicrobiomeWorkflowII.html&#34;&gt;Microbiome workflow&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,29 +32,7 @@
 
 &lt;p&gt;Some News reports.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;March 30, &lt;a href=&#34;https://engineering.stanford.edu/news/susan-holmes-challenges-behind-replicating-biomedical-research&#34;&gt;Stanford Engineering&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Febryary 9, &lt;a href=&#34;http://news.stanford.edu/2017/02/09/stanfords-women-data-science-conference-reaches-worldwide-audience/&#34;&gt;Stanford Report on WiDS&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2016&#34;&gt;2016&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;November 7, &lt;a href=&#34;http://news.stanford.edu/2016/11/07/susan-holmes-statistics-era-big-data/&#34;&gt;Questions and Answers by Taylor Kubota&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;May &lt;a href=&#34;https://www.youtube.com/watch?v=qrQBbyyGJLg&#34;&gt;Big Data in Medicine&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2012&#34;&gt;2012&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8hx-ZyFOPO0&#34;&gt;Why writing matters ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,44 +46,7 @@
 &lt;p&gt;The last few months have been really busy and I have given
 quite a few talks, here are some of the ones that were recorded or for which I have released slides.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2017&#34;&gt;2017&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;March 18, &lt;a href=&#34;https://www.dropbox.com/s/tzylb3uq0xzb8vc/Geometry_of_Uncertainty_Rabi.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt; Rabi-Fest : Geometry of Uncertainty and Registration&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;February 16, &lt;a href=&#34;https://www.dropbox.com/s/zxukb6sal1h1n1k/SimonsMicrobiomeLongitudinalData.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;Simons 2nd Workshop on Microbiome, Broad Institute, MIT,  Slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;February 14, &lt;a href=&#34;http://www.birs.ca/events/2017/5-day-workshops/17w5104/videos/watch/201702130901-Holmes.html&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt;BIRS 17w5104: A historical perspective on treespace.&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.birs.ca/workshops/2017/17w5104/files/Holmes-Phylo.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;BIRS 17w5104: Slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;February 3rd, &lt;a href=&#34;https://www.youtube.com/watch?v=ft9hErHK9TU&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt;WidS Video: Statistical Challenges in the Analysis of Biological Data&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.dropbox.com/s/nkho2nyk1erk0f7/WiDS_RR_Microbiome-2017.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;WidS: How many ways? (to analyse a microbiome data set.)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;January 23, &lt;a href=&#34;https://www.dropbox.com/s/oy04gkn0i6lynd1/DADA_ANU.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt; ANU: Statistical challenges; propagation of uncertainty in microbiome studies&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;January 7, &lt;a href=&#34;https://www.dropbox.com/s/k63xrrlbu27emyt/JMM-CEB_StatisticalProof-eda.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt; Joint Mathematics Meetings: Statistical Proof? The problem of irreproducibility&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;January 8, &lt;a href=&#34;https://www.dropbox.com/s/ix5jyeyg3ahcz5x/JMM_MAA_RR_Microbiome-2017.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;  MAA- special invited lecture: Statistical challenges in analysing the human microbiome&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Reproducible-Research-the-Case-of-the-Human-Microbiome&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt; NIPS, December 2016 : Reproducible Research, the case of the human microbiome.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://bioconductor.org/help/course-materials/2016/BioC2016/InvitedTalks1/160624-Holmes-MultitableMicrobiomeBioc.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt; Bioconductor Meeting, June: Multidomain data  for the Human Microbiome&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://mrc.stanford.edu/content/breaking-codes-and-finding-patterns-0&#34;&gt;&lt;i class=&#34;fa fa-file-movie-o&#34; style=&#34;font-size:24px;color:red&#34;&gt;&lt;/i&gt; Mathematics, May, Public Talk at Stanford: Breaking Codes and Finding Patterns&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://res.cloudinary.com/sherlockph/image/upload/v1488142802/susan_holmes-davey_hubay2016_small_kmmjif.jpg&#34; width=&#34;100&#34; height=&#34;50&#34;&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/hbslt6shzw4d0nt/Geometry_of_Uncertainty_Utah.pdf?dl=0&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; style=&#34;font-size:24px;color:orange&#34;&gt;&lt;/i&gt;
-Scientific Computing and Imaging Institute, Utah, April. The visualization of uncertainty&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
