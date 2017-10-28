@@ -6,10 +6,21 @@
     <description>Recent content in Data Science on Susan Holmes: Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spholmes.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>October talks on Multidomain Data Workflow</title>
+      <link>https://spholmes.github.io/2017/10/october-talks-on-multidomain-data-workflow/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://spholmes.github.io/2017/10/october-talks-on-multidomain-data-workflow/</guid>
+      <description>&lt;p&gt;October, 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Survey of Microbiome Data Workflow</title>
