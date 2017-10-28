@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://spholmes.github.io/2017/10/october-talks-on-multidomain-data-workflow/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spholmes.github.io/2017/07/survey-of-microbiome-data-workflow/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://spholmes.github.io/categories/archive/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,19 +45,19 @@
   
   <url>
     <loc>https://spholmes.github.io/categories/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/data-science/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/microbiome/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,25 +69,25 @@
   
   <url>
     <loc>https://spholmes.github.io/post/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/reproducible-research/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spholmes.github.io/tags/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
