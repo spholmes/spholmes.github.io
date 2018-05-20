@@ -6,17 +6,17 @@
     <description>Recent content in Posts on Susan Holmes: Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spholmes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Traveling between talks and subjects.</title>
-      <link>https://spholmes.github.io/2018/01/traveling-between-talks-and-subjects./</link>
-      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <title>The Winter talks: 2018</title>
+      <link>https://spholmes.github.io/2018/03/the-winter-talks-2018/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://spholmes.github.io/2018/01/traveling-between-talks-and-subjects./</guid>
+      <guid>https://spholmes.github.io/2018/03/the-winter-talks-2018/</guid>
       <description>&lt;p&gt;January, 2018&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -58,15 +58,12 @@
     </item>
     
     <item>
-      <title>Recent talks</title>
-      <link>https://spholmes.github.io/2017/03/recent-talks/</link>
+      <title>Last years&#39; talks</title>
+      <link>https://spholmes.github.io/2017/03/last-years-talks/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://spholmes.github.io/2017/03/recent-talks/</guid>
-      <description>&lt;p&gt;March, 2017&lt;/p&gt;
-
-&lt;p&gt;The last few months have been really busy and I have given
-quite a few talks, here are some of the ones that were recorded or for which I have released slides.&lt;/p&gt;
+      <guid>https://spholmes.github.io/2017/03/last-years-talks/</guid>
+      <description>&lt;p&gt;Here are some of the talks that have been  recorded or for which I have released slides.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -82,6 +79,15 @@ and `historical perspectives&amp;rsquo;, I have also made some of my &lt;strong&
 talks available.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spholmes.github.io/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spholmes.github.io/1/01/</guid>
+      <description>The Winter talks: 2018       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
